@@ -23,7 +23,7 @@ This GitHub is my little digital garden 🌷, a collection of **projects, experi
 
 ---
 
-### ✨ A little more about my journey
+### A little more about my journey
 
 - ✨ **Currently:** Learning, building, auditing & growing
 - 🔐 **Exploring:** Cybersecurity, GRC, DevSecOps & Technology Risk
@@ -31,6 +31,3 @@ This GitHub is my little digital garden 🌷, a collection of **projects, experi
 - 🎓 **Pursuing:** MSc in Computer Science
 - 🌱 **Goal:** To continue embracing my journey as a multipotentialite, exploring the many areas of technology that spark my curiosity ✨
 
----
-
-### 💕 Build it. Understand it. Secure it. Audit it. Keep learning.
