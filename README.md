@@ -1,7 +1,7 @@
 # Hi, I’m Keletso Joy! 👋🏽💗
 
 🎓 **MSc Computer Science Candidate**  
-💼 **IT Audit Associate**  
+💼 **IT Auditor**  
 👩🏽‍💻 **BSc Computer Science Graduate**  
 🔐 **IT Audit | GRC | Cybersecurity | DevSecOps | Software Development**
 
